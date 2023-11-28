@@ -1,5 +1,7 @@
 # DeepFace Face Verification Project
 
+![Uploading image.png…]()
+
 This project is a powerful tool for face verification leveraging DeepFace and Matplotlib libraries in Python 3.10.12.
 
 ## Overview
