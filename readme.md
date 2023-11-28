@@ -1,6 +1,6 @@
-# DeepFace Face Verification Project
+![image](https://github.com/chronomustard/deepface-verification/assets/70846916/09e9ae8a-0dbb-4c6f-99e9-8507c5015d65)# DeepFace Face Verification Project
 
-![Uploading image.png…]()
+![image](https://github.com/chronomustard/deepface-verification/assets/70846916/495975c2-315d-426f-a3f6-fb35c0878b80)
 
 This project is a powerful tool for face verification leveraging DeepFace and Matplotlib libraries in Python 3.10.12.
 
