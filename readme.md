@@ -1,7 +1,5 @@
 # DeepFace Face Verification Project
 
-![image](https://github.com/chronomustard/deepface-verification/assets/70846916/99a0c514-b228-4e16-88b5-bd8f13f81a2a)
-
 This project is a tool for face verification leveraging DeepFace and Matplotlib libraries in Python 3.10.12.
 
 ## Overview
@@ -43,6 +41,10 @@ cd deepface-verification
 conda create --name <env_name> --file requirements.txt
 conda activate <env_name>
 ```
+
+## Tests
+
+![image](https://github.com/chronomustard/deepface-verification/assets/70846916/99a0c514-b228-4e16-88b5-bd8f13f81a2a)
 
 ## Contributing
 
