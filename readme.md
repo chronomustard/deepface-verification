@@ -2,11 +2,11 @@
 
 ![image](https://github.com/chronomustard/deepface-verification/assets/70846916/99a0c514-b228-4e16-88b5-bd8f13f81a2a)
 
-This project is a powerful tool for face verification leveraging DeepFace and Matplotlib libraries in Python 3.10.12.
+This project is a tool for face verification leveraging DeepFace and Matplotlib libraries in Python 3.10.12.
 
 ## Overview
 
-The DeepFace Face Verification Project offers a streamlined approach to verify faces using cutting-edge deep learning techniques. It provides a robust framework to compare and authenticate faces with high accuracy.
+The DeepFace Face Verification Project offers an approach to verify faces using cutting-edge deep learning techniques. It provides a framework to compare and authenticate faces with high accuracy.
 
 ## Usage
 
